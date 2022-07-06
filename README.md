@@ -3,7 +3,6 @@
 - 🔭 Atualmente estou à procurando estágios para dar um start na minha carreira de Dev...
 - 🌱 Atualmente estou no 2°Ano do Ensino médio técnico de desenvolvimento de softwares do SESI Senai.
 - 📫 Meu email para contato: geronimofloripa@gmail.com
-- 😄 Pronouns: Ele/Dele
 - ⚡ Gosto de andar de Skate, jogar jogos eletronicos e testar minha capacidade em programação
 
 <div align="center">
