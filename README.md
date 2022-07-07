@@ -4,6 +4,7 @@
 - 🌱 Atualmente estou no 2°Ano do Ensino médio técnico de desenvolvimento de softwares do SESI Senai.
 - 📫 Meu email para contato: geronimofloripa@gmail.com
 - ⚡ Gosto de andar de Skate, jogar jogos eletronicos e testar minha capacidade em programação
+- Minhas outras redes sociais: https://francohtml.github.io/Explorer/
 
 <div align="center">
   <a href="https://github.com/FrancoHTML">
